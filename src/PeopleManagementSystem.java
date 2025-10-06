@@ -5,7 +5,6 @@ import java.util.*;
  * MAD204-01 | Assignment 1 - Part A
  * Author: Manpreet Singh
  * Student ID: A00198842
- * Date: 2025-10-06
  * Description: Main console-based People Management System
  */
 
