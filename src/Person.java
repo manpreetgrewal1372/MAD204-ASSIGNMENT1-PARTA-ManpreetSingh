@@ -2,7 +2,6 @@
  * MAD204-01 | Assignment 1 - Part A
  * Author: Manpreet Singh
  * Student ID: A00198842
- * Date: 2025-10-06
  * Description: Abstract Person class for People Management System
  */
 
@@ -21,7 +20,7 @@ public abstract class Person {
 
     public void celebrateBirthday() {
         this.age++;
-        System.out.println(name + " is now " + age + " years old.");
+        System.out.println(Name + " is now " + age + " years old.");
     }
 
     @Override
