@@ -27,3 +27,21 @@ The system allows adding, listing, searching, removing people (Students, Profess
 - Search by ID or Name (method overloading)
 
 ---
+## How to Run
+1. Clone the repository:
+
+git clone https://github.com/YOUR_USERNAME/MAD204-ASSIGNMENT1-PARTA-YOURNAME.git
+
+2. Open the project in IntelliJ IDEA/Eclipse.
+3. Run `PeopleManagementSystem.java`.
+
+---
+
+## Commit History
+1. Initial commit — Create project structure and abstract Person class  
+2. Add Student, Professor, TeachingAssistant classes with overrides  
+3. Implement Evaluable interface and performance methods  
+4. Add PeopleManagementSystem main menu and basic functions  
+5. Add recursion, search overloading, and exception handling  
+6. Add file I/O persistence  
+7. Final testing and documentation
